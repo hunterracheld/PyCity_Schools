@@ -1,0 +1,6 @@
+Observable trends in PyCitySchools Data:
+
+
+1. Schools with a budget in  a range of $600 - $625 per student have the highest average math & reading score, and the highest percentage of students passing math and reading. The second highest-performing group, in terms of school spending, is $575 - $600. It's interesting that the schools with the biggest budget per student actually perform worse than the other two categories. Conventional (capitalist) wisdom suggests that the more money schools spend on students, the better their outcomes will be, but this data shows the opposite, and therefore suggests that something else is contributing to better outcomes, such as number of students, or school type. This is further supported by the fact that...
+
+2. The last table shows charter schools have a much higher overall passing rate (95%) compared to district schools (73%). Furthermore, the top five highest-performing schools are all charter schools. Since charter schools typically benefit from more freedom in curriculum design, we could infer that this is what has the biggest impact on student performance, since school outcomes by size are inconsistent (no one single category stands out as they do in school spending by student or school type).   
